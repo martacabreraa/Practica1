@@ -1,5 +1,5 @@
 package es.upm.practica;
 
-public class Practica {
-
+public class Practica {  
+	
 }
